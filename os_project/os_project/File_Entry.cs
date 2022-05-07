@@ -172,7 +172,7 @@ namespace os_project
                     //convert each iteam in  list to array of size 32
                     //  byte[] b = System.Convert.ToByte(DirOrFiles[i]);
 
-                    byte[] b = new byte[1024];// Converter.Directory_EntryToBytes(DirOrFiles[i]);
+                     byte[] b = Converter.Directory_EntryToBytes(DirOrFiles[i]);
 
                     for (int j = i * 32, k = 0; k > b.Length; k++, j++)
                         dirorfile[j] = dirorfile[k];
