@@ -1,0 +1,14 @@
+F:\data\IS الترم التاني\Operating system\os_project\os_project\obj\Debug\os_project.csprojAssemblyReference.cache
+F:\data\IS الترم التاني\Operating system\os_project\os_project\obj\Debug\os_project.csproj.CoreCompileInputs.cache
+F:\data\IS الترم التاني\Operating system\os_project\os_project\bin\Debug\os_project.exe.config
+F:\data\IS الترم التاني\Operating system\os_project\os_project\bin\Debug\os_project.exe
+F:\data\IS الترم التاني\Operating system\os_project\os_project\bin\Debug\os_project.pdb
+F:\data\IS الترم التاني\Operating system\os_project\os_project\obj\Debug\os_project.exe
+F:\data\IS الترم التاني\Operating system\os_project\os_project\obj\Debug\os_project.pdb
+E:\os_project\os_project\bin\Debug\os_project.exe.config
+E:\os_project\os_project\bin\Debug\os_project.exe
+E:\os_project\os_project\bin\Debug\os_project.pdb
+E:\os_project\os_project\obj\Debug\os_project.csprojAssemblyReference.cache
+E:\os_project\os_project\obj\Debug\os_project.csproj.CoreCompileInputs.cache
+E:\os_project\os_project\obj\Debug\os_project.exe
+E:\os_project\os_project\obj\Debug\os_project.pdb
